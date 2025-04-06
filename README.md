@@ -7,5 +7,3 @@ En base a eso mostramos una imagen para cada elemento representado como Aire, Fu
 
 Utilizamos useEffect para mostrar los resultados en consola de las respuestas seleccionadas y ademas mostramos la imagen
 correspondiente para cada elemento.
-
-T
